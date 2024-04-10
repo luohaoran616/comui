@@ -1,0 +1,15 @@
+torch
+torchsde
+torchvision
+einops
+transformers>=4.25.1
+safetensors>=0.3.0
+aiohttp
+pyyaml
+Pillow
+scipy
+tqdm
+psutil
+kornia>=0.7.1
+diffusers>=0.25.0
+opencv-python
